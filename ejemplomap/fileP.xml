@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+  <key id="2" />
+  <persona nombre="Manueñ" ID="1134" Edad="21" />
+  <persona nombre="Xamara" ID="1135" Edad="32" />
+  <persona nombre="Kimi" ID="1136" Edad="26" />
+  <persona nombre="Mendez" ID="1137" Edad="31" />
+  <key id="3" />
+  <persona nombre="David" ID="1130" Edad="31" />
+  <persona nombre="Pepe" ID="1131" Edad="30" />
+  <persona nombre="Ximena" ID="1132" Edad="25" />
+  <persona nombre="Camila" ID="1133" Edad="37" />
+</personas>
